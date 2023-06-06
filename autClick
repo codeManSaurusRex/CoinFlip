@@ -1,0 +1,12 @@
+// this program makes it possible to flip the coin 1000 times easily.
+import pyautogui
+import time
+def autoclicker(): #declares the function
+    numClicks = 0;
+
+    while numClicks < 1000: #makes a infinite loop
+        pyautogui.click()
+        time.sleep(0.00001) 
+        numClicks += 1
+        
+autoclicker()
