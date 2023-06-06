@@ -1,0 +1,5 @@
+pbinom(1794, 3674, 0.5,)
+pbinom(110, 200, 0.5, )
+pbinom(2192, 2255 + 2192, 0.5)
+pbinom(3002, 2860 + 3002, 0.5, lower.tail = FALSE)
+pbinom(4861, 4861 + 4719, 0.5, lower.tail = FALSE)
