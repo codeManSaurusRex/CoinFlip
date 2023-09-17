@@ -15,7 +15,7 @@ public class card {
      String clubs = "Clubs";
      String diamonds = "Diamonds";
     System.out.println("********");
-    System.out.print("Hello! You picked the ");34
+    System.out.print("Hello! You picked the ");
 
 switch (cardIndex) {
     case 2:
